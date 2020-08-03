@@ -1,0 +1,21 @@
+teknologi yang di gunakan
+
+*php 7.2.19
+*Framework Codeigniter 3 
+*Library Ion Auth (untuk autentikasi Admin)
+*Library bootstrap (templates untuk Backend)
+*Library materialize (design untuk Frontend)
+*datatables
+*Library qr code Untuk Mengubah Kode Ke Qr code Agar Qr Code Dinamis Tiap Hari
+*Library Webcam Js Absensi Foto Selfi Dan Menyimpan Ke database
+*Library Html5 Scanner Qr Code
+
+
+
+
+
+login dahboard Admin = admin@admin.com , password = password
+
+login qr code       username = user@user.com , password = useruser
+
+
